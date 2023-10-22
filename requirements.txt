@@ -1,0 +1,11 @@
+altair==5.1.2
+
+plotly
+numpy
+pandas
+matplotlib
+
+smmap==5.0.1
+streamlit==1.27.2
+
+wordcloud 
